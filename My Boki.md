@@ -1,4 +1,4 @@
-# 我的第一篇博客
+### 我的第一篇博客
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,11 +14,11 @@
 
 <h3>我的第一篇写作</h3>
 
-<a href="D:/99999/shiyan.html">主页</a>
+#### <a href="D:/99999/shiyan.html">主页</a>
 
-<a href="http://localhost:4000/">随笔</a>
+#### <a href="http://localhost:4000/">随笔</a>
 
-<a href="http://localhost:4000/archives/index.html">归档</a>
+#### <a href="http://localhost:4000/archives/index.html">归档</a>
 
 <bgsound src=”music.mid” loop=”-1″></bgsound>
 
